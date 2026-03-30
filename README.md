@@ -9,12 +9,16 @@ It uses [Chirpy's Alternative Voron Mounts](https://github.com/chirpy2605/voron/
 
 ## BOM
 ### For the Y axis
-8x M3x8 SHCS or BHCS - These replace the 8x M2x6 FHCS in the stock BOM
-Other than that the BOM is identical
+8x M3x8 SHCS or BHCS - These replace the 8x M2x6 FHCS in the stock BOM.
+Other than that the BOM is identical.
 
 ### For the Z Axis
-8x M3x8 SHCS or BHCS - These replace the 8x M2x8 SHCS in the stock BOM
-Other than that the BOM is identical
+8x M3x8 SHCS or BHCS - These replace the 8x M2x8 SHCS in the stock BOM.
+Other than that the BOM is identical.
 
 ### For the toolhead
+
+
+### For the Tulip Tensioners
+> I literally just widened and shallowed the screw holes to fit a 3Gx8mm screw.
 
