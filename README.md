@@ -1,7 +1,7 @@
 # MAYHEM for Voron 0
 ## A collection of mods I made
 
-**M.A.Y.H.M.**, or **M**GN9H **A**wesomeness for **Y** and Z axis for more **H**eroics **M**od adapts the printed parts for the Voron 0's Z axis to accomodate a MGN9H block (And offer more Z travel somehow), and modifies the [Tulip Mod](https://github.com/Amekyras/tulip) to accomodate a MGN9H block.
+**M.A.Y.H.M.**, or **M**GN9H **A**wesomeness for **Y** and Z axis for more **H**eroics **M**od adapts the printed parts of the Voron 0's Z axis to accomodate a MGN9H block (And offer more Z travel somehow), and modifies the [Tulip Mod](https://github.com/Amekyras/tulip) XY joints to accomodate a MGN9H block.
 
 Along with the **MAYHM** mods I have also attached my featherweight toolhead designed for a Sherpa Mini, Rapido UHF and a 4010 cooling fan to be used with auxiliary part fans.
 
