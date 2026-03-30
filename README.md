@@ -14,7 +14,7 @@ Other than that the BOM is identical.
 8x M3x8 SHCS or BHCS - These replace the 8x M2x8 SHCS in the stock BOM.  
 Other than that the BOM is identical.
 
-### For the toolhead and carriage
+### For the Toolhead and Carriage
 1x M3x20 SHCS or BHCS - Mounts the toolhead to the carriage.  
 4x M3x12 SHCS or BHCS - x2 Mounts the extruder, x2 Mounts the fan duct to the toolhead.  
 6x M3x8 SHCS or BHCS - x4 Mounts the carriage to the rail block, x2 Mounts to the fan.  
