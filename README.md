@@ -8,26 +8,26 @@ With a Rapido HF and Sherpa Mini, the toolhead came out at a weight of 212g (Thi
 
 ## BOM
 ### For the Y axis
-8x M3x8 SHCS or BHCS - These replace the 8x M2x6 FHCS in the stock BOM
-2x 160 to 178mm MGN9H Linear Rails
+8x M3x8 SHCS or BHCS - These replace the 8x M2x6 FHCS in the stock BOM  
+2x 160 to 178mm MGN9H Linear Rails  
 
 ### For the Z Axis
-8x M3x8 BHCS - These replace the 8x M2x8 SHCS in the stock BOM 
-SHCS may protrude too far and hit the buildplate
-2x 160 to 200mm MGN9H Linear Rails (Atleast 182mm is required to achieve ~130/140mm Z travel with a UHG/HF hotend, respectively)
+8x M3x8 BHCS - These replace the 8x M2x8 SHCS in the stock BOM  
+SHCS may protrude too far and hit the buildplate  
+2x 160 to 200mm MGN9H Linear Rails (Atleast 182mm is required to achieve ~130/140mm Z travel with a UHG/HF hotend, respectively)  
 
 ### For the Toolhead
-Hotend Mount / Carriage Interface
-1x M3 Nut
-1x M3x20 SHCS
-2x M3x30mm Pin 
+Hotend Mount / Carriage Interface  
+1x M3 Nut  
+1x M3x20 SHCS  
+2x M3x30mm Pin  
 
-Extruder - Mounts directly to the hotend mount
-2x M3x12 SHCS or BHCS + 2x M3 Nut
-OR
-2x M3x10 SHCS or BHCS + 2x M3x5x4 Heat Insert
+Extruder - Mounts directly to the hotend mount  
+2x M3x12 SHCS or BHCS + 2x M3 Nut  
+OR  
+2x M3x10 SHCS or BHCS + 2x M3x5x4 Heat Insert  
 
-Fan And Fan Duct - Fan mounts to the fan duct, which then mounts to the hotend mount
-6x M3x12 SHCS
-4x M3 Nut
-2x M3x5x4 Heat Insert
+Fan And Fan Duct - Fan mounts to the fan duct, which then mounts to the hotend mount  
+6x M3x12 SHCS  
+4x M3 Nut  
+2x M3x5x4 Heat Insert  
