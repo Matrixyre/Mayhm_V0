@@ -5,12 +5,16 @@ I am going to soon revise these designs, and add extra components, such as a Z s
 
 **M.A.Y.H.M.**, or **M**GN9H **A**wesomeness for **Y** and Z axis for more **H**eroics **M**od adapts the printed parts of the Voron 0's Z axis to accomodate a MGN9H block (And offer more Z travel - ~130mm with a rapidburner/featherweight toolhead, or ~140mm if you use the same toolhead with a HF hotend), and modifies the [Tulip Mod](https://github.com/Amekyras/tulip) XY joints to accomodate a MGN9H block.
 
-!(https://github.com/Matrixyre/Mayhm_V0/blob/main/Images/XY%20Joint%20MGN9C.png)  
+![](https://github.com/Matrixyre/Mayhm_V0/blob/main/Images/XY%20Joint%20MGN9C.png)  
+
+![](https://github.com/Matrixyre/Mayhm_V0/blob/main/Images/Z%20Joint%20MGN9C.png)  
 
 Along with the **MAYHM** mods I have also attached my featherweight toolhead designed for a Sherpa Mini, Rapido UHF (Fan duct is custom made for rapido heatsink shape) and a 4010 cooling fan to be used with auxiliary part fans. It uses [Chirpy's Alternative Voron Mounts](https://github.com/chirpy2605/voron/tree/main/general/Alternative_Voron_Mounts/Modified_Mounts/v0.2), specifically any version intended for M3 pins.
 With a Rapido HF and Sherpa Mini, the toolhead came out at a weight of 212g (This does not include the X carriage). The toolhead utilises a singular M3x20 SHCS screw to secure itself to the X carriage, making it easy to remove the toolhead for modifications and repairs.  
 
 There also exists a MGN9C Wide X carriage, based off Chirpy's Alternative Mounts, that just allows more flexibility when it comes to belt length and better clamping force.
+
+![](https://github.com/Matrixyre/Mayhm_V0/blob/main/Images/Featherweight%20Toolhead.png)  
 
 ## BOM
 ### For the Y axis
