@@ -1,6 +1,5 @@
 # MAYHEM for Voron 0
-## A collection of mods I made
-## Here be dragons
+## A collection of mods I made - Here be dragons.
 
 **M.A.Y.H.M.**, or **M**GN9H **A**wesomeness for **Y** and Z axis for more **H**eroics **M**od adapts the printed parts of the Voron 0's Z axis to accomodate a MGN9H block (And offer more Z travel - 130mm with a rapidburner/featherweight toolhead, or 140 if you use the same toolhead with a HF hotend), and modifies the [Tulip Mod](https://github.com/Amekyras/tulip) XY joints to accomodate a MGN9H block.
 
