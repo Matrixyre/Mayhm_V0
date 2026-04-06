@@ -9,12 +9,14 @@ With a Rapido HF and Sherpa Mini, the toolhead came out at a weight of 212g (Thi
 ## BOM
 ### For the Y axis
 8x M3x8 SHCS or BHCS - These replace the 8x M2x6 FHCS in the stock BOM  
-2x 160 to 178mm MGN9H Linear Rails  
+2x 160 to 178mm MGN9H Linear Rails (Depending on your front idler design, this may allow the gantry to travel beyond 120mm in the Y axis)  
+(Recommended Minimum) 8x M3x8 SHCS or BHCS and 8x M3 Nut for securing the rails to the extrusions  
 
 ### For the Z Axis
 8x M3x8 BHCS - These replace the 8x M2x8 SHCS in the stock BOM  
 SHCS may protrude too far and hit the buildplate  
-2x 160 to 200mm MGN9H Linear Rails (Atleast 182mm is required to achieve ~130/140mm Z travel with a UHG/HF hotend, respectively)  
+2x 160 to 200mm MGN9H Linear Rails (Atleast 180mm is required to achieve 140mm Z travel)  
+(Recommended Minimum) 8x M3x8 SHCS or BHCS and 8x M3 Nut for securing the rails to the extrusions  
 
 ### For the Toolhead
 Hotend Mount / Carriage Interface  
